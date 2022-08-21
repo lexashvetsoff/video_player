@@ -13,4 +13,5 @@
 .play-button {
     border: none;
     color: white;
+    background-color: transparent;
 }
