@@ -18,6 +18,11 @@
 
 .player-panel {
     background-color: black;
+    display: flex;
+}
+
+.player-panel :last-child{
+    margin-left: auto;
 }
 
 .panel-button {
