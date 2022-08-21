@@ -6,6 +6,10 @@
     cursor: pointer;
 }
 
+.player-panel {
+    background-color: black;
+}
+
 .play-button {
     border: none;
 }
